@@ -1,0 +1,4 @@
+looper
+pkg/*
+src/code.google.com/*
+*.swp
